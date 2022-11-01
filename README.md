@@ -1,4 +1,4 @@
-# Blaseball Design System
+# BB Design System
 > Standardization of our colours, spacing, etc, to be used across both react native and react vanilla
 
 ## Usage
