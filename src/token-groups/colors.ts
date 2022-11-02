@@ -122,10 +122,10 @@ export const colors = {
 		accentDark: "#6100BD",
 	},
 	greyFlat: {
-		textLight: "#f9fafb", // Gray/25
-		textMuted: "#d0d5dd", // Gray/100
-		accentMuted: "##828799", // Gray/500
-		accentDark: "#3D414C", // Gray/800
+		textLight: "#f9fafb",
+		textMuted: "#d0d5dd",
+		accentMuted: "##828799",
+		accentDark: "#3D414C",
 		background: "#0A0B0D"
 	},
 	greyAlpha: {

@@ -28,7 +28,7 @@ export async function toTokenValues(tokens: Tokens) {
   await fs.promises.writeFile(
     outputFile,
     [
-      `export * from "../src/index"`,
+      `export * from "../src/index";`,
       tokenEntries.map(createExport),
       createExport(['tokens', Object.fromEntries(tokenEntries)])
     ]
